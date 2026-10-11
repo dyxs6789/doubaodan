@@ -1,3 +1,3 @@
-1.0.57
-界面改版：底部标签导航栏（图标+文字，选中橙色）；行情页/配置页币种、周期、监测范围改为勾选框样式
+1.0.58
+行情分析币种选择改为一行4个，只显示大写字母 E/B/S/H
 https://raw.githubusercontent.com/dyxs6789/doubaodan/main/doubaodan.apk
