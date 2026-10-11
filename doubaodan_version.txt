@@ -1,3 +1,3 @@
-1.0.59
-修复检查更新误判：改为 raw 主通道 + jsDelivr 备用，发布自动刷新缓存
+1.0.60
+首次安装打开软件弹出箱体更新功能引导弹窗（样式同危险警告弹窗）
 https://raw.githubusercontent.com/dyxs6789/doubaodan/main/doubaodan.apk
