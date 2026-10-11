@@ -1,3 +1,3 @@
 1.0.72
 监测范围排版调整：第一排 上轨/中轨/MA50/下轨，第二排 箱体上价/箱体回撤/箱体下价
-https://raw.githubusercontent.com/dyxs6789/doubaodan/main/doubaodan.apk
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan.apk
