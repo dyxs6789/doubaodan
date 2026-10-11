@@ -1,3 +1,3 @@
-1.0.47
-行情分析页币种勾选补齐首字母显示（E/B/S/H），全软件币种字眼统一
+1.0.48
+更新检查双通道：主读 jsDelivr + 备用 GitHub raw 直链，取版本号较大者，解决 CDN 缓存未刷新导致手机端检测不到更新
 https://github.com/dyxs6789/doubaodan/raw/main/doubaodan.apk
