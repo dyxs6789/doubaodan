@@ -1,3 +1,3 @@
-1.0.63
-修复检查更新读不到新版：新增GitHub代理镜像通道（ghfast/gh-proxy/ghproxy），超时提升到15秒
+1.0.64
+监测配置：去顶部横幅、新增不通知选项、阈值0.1%-1%、保存下加返回按钮；底部标签改为行情分析/参数计算/箱体计算/网格明细
 https://raw.githubusercontent.com/dyxs6789/doubaodan/main/doubaodan.apk
