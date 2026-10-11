@@ -1,3 +1,3 @@
-1.0.67
-修复悬浮球打开闪退：窗口参数创建顺序调整（先建参数再渲染），并加空指针防御
+1.0.68
+移除悬浮球功能（悬浮球价格显示异常且界面错乱），恢复稳定版；行情卡片/等级说明/跨度说明等上一版改动保留
 https://raw.githubusercontent.com/dyxs6789/doubaodan/main/doubaodan.apk
