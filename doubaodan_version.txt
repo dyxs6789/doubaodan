@@ -1,3 +1,3 @@
-1.0.61
-危险警告弹窗与首次安装引导弹窗改为圆角样式，对齐效果图
+1.0.62
+去掉实时监测触发时的底部Toast提示，只保留系统通知与语音播报
 https://raw.githubusercontent.com/dyxs6789/doubaodan/main/doubaodan.apk
