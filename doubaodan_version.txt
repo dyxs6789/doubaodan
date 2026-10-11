@@ -1,3 +1,3 @@
-1.0.42
-修复App内音频测试无声音：语音引擎初始化时序+小米等国产引擎中文locale兼容
+1.0.43
+语音播报引擎自动探测：逐个尝试讯飞/小米/百度/三星/谷歌引擎+系统默认，自动切换到可用中文引擎
 https://github.com/dyxs6789/doubaodan/raw/main/doubaodan.apk
