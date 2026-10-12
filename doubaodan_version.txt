@@ -1,3 +1,3 @@
-1.9.21
-回撤播报修正:刷新极值播'刷新最高价/最低价';回撤/回涨超过整数比例触发一次、比例两位小数、0%不播;有效极值按P触发价截断(多仓=max(登记,P)、空仓=min(登记,P));极值输入框标签简化为最高价/最低价;已持有仓位卡片删除重复的已买入仓位与实时杠杆率行
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.21.apk?v=1
+1.9.22
+删除已持有仓位卡片内重复的'已买入仓位'与'实时杠杆率'左侧标签行(仅保留开仓后已买入量+实时杠杆率)
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.22.apk?v=1
