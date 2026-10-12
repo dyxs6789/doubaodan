@@ -1,3 +1,3 @@
-1.9.26
-仓位方向切换只做查看:切换多/空不再触发监测开关副作用(避免意外覆盖锁定箱体价),开关仅用于手动启停该方向监测
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.26.apk?v=1
+1.9.27
+已持有仓位升级为币种×周期×方向独立记录(旧配置自动迁到当前周期);通知配置页新增监听网格列表:统一启停/删除(二次确认)/一键跳转到网格分析详情
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.27.apk?v=1
