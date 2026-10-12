@@ -1,3 +1,3 @@
-1.9.04
-已持有仓位开关逻辑:填完整参数才能打开,打开后参数锁定不可二次编辑,自动进入行情判断与监测播报;关闭后才可再次编辑
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.04.apk?v=1
+1.9.05
+网格分析:首次打开立即触发一次分析;周期选择下方新增更新倒计时(本次更新于 HH:mm:ss,下次更新于 X 秒后),按监测频率每秒刷新
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.05.apk?v=1
