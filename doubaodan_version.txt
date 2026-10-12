@@ -1,3 +1,3 @@
-1.8.95
-修复下载到旧包问题:下载逻辑对jsDelivr链接自动附加时间戳参数绕过边缘缓存,每次更新都下载最新APK;网格分析已在主框架标签页内(去独立页/去顶部横幅),与行情分析同框架,币种可多选、周期单选
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.8.95.apk?v=1
+1.8.96
+修复网格分析两个问题:1)周期改为与行情分析一致的勾选框(单选互斥),不再出现无选择框;2)卡片渲染整体异常兜底,分析失败显示错误文字不再闪退;下载逻辑已带时间戳绕过缓存
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.8.96.apk?v=1
