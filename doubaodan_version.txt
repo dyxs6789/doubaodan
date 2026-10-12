@@ -1,3 +1,3 @@
-1.9.34
-更新时间标注恢复为自动计算区开仓后最高/最低价行值后括号内(如 开仓后最低价2521.15（更新于10-12 21:19:31）);未开仓卡片输入框改为与已持有仓位同款两列样式;每格价修正为每格价差
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.34.apk?v=1
+1.9.35
+修复更新安装旧版本问题:备用下载源全部改用与直链相同的新文件名,并同步更新固定下载文件;下载前清除旧缓存安装包
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.35.apk?v=1
