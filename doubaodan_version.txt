@@ -1,3 +1,3 @@
-1.9.05
-网格分析:首次打开立即触发一次分析;周期选择下方新增更新倒计时(本次更新于 HH:mm:ss,下次更新于 X 秒后),按监测频率每秒刷新
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.05.apk?v=1
+1.9.06
+已持有仓位四个参考价改为按持仓方向取:多网格 止盈=上轨/暂停=中轨/止损=箱体下价/强止损=箱体下价-2%;空网格 止盈=下轨/暂停=上轨/止损=箱体上价/强止损=箱体上价+2%;播报判断同步跟随持仓方向
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.06.apk?v=1
