@@ -1,3 +1,3 @@
-1.9.17
-已持仓数据按币种独立存管+后台监测:切换币种后原币种持仓保留并继续监测(各币种独立开关/方向/参数/极值),旧数据自动迁移到原币种
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.17.apk?v=1
+1.9.18
+语音自动激活:App启动/监测服务启动即自动初始化语音引擎,定时更新引擎每轮检查自动激活,播报前未就绪自动重试,不再需要手动点音频测试
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.18.apk?v=1
