@@ -1,3 +1,3 @@
-1.9.22
-删除已持有仓位卡片内重复的'已买入仓位'与'实时杠杆率'左侧标签行(仅保留开仓后已买入量+实时杠杆率)
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.22.apk?v=1
+1.9.23
+修复网格带状态颜色标注逻辑:按方向判定风险(多仓下带低于暂停/止损/强止损=红色;空仓上带高于暂停/止损/强止损=红色),文案跟随实际高低于方向
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.23.apk?v=1
