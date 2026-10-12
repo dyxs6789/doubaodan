@@ -1,3 +1,3 @@
-1.9.10
-参数行排版修复:字体恢复12sp,值强制右对齐(标签在左、值在右)
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.10.apk?v=1
+1.9.11
+已持有仓位四个参考价改为开仓时刻固化:打开开关瞬间按当时箱体价/轨道价锁定,之后行情刷新不改变;关闭后重新打开才重新固化
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.11.apk?v=1
