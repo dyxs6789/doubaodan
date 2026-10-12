@@ -1,3 +1,3 @@
-1.9.00
-1)价格轨道标尺标签防重叠,不再错乱;2)未开仓网格带改为当前布林带(上轨~下轨)实时计算;3)通知配置页新增监测频率选择(30秒/1分钟/5分钟/30分钟/1小时)
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.00.apk?v=1
+1.9.01
+1)已持有仓位开关移除,区块恒显示,已持有网格播报恒生效;2)未开仓P以上格数最少为1(如总格数1000时P以上1+P以下999),总数恒等于总格数
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.01.apk?v=1
