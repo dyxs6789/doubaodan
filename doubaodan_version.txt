@@ -1,3 +1,3 @@
-1.8.94
-网格分析改回主界面标签页(去独立Activity/去顶部橙横幅),与行情分析/参数计算/箱体计算共用账号框架;币种可多选、周期单选(行情分析周期为多选);网格明细列表移入参数计算页底部
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.8.94.apk
+1.8.95
+修复下载到旧包问题:下载逻辑对jsDelivr链接自动附加时间戳参数绕过边缘缓存,每次更新都下载最新APK;网格分析已在主框架标签页内(去独立页/去顶部横幅),与行情分析同框架,币种可多选、周期单选
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.8.95.apk?v=1
