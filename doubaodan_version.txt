@@ -1,3 +1,3 @@
-1.8.98
-1)网格分析周期勾选框与行情分析一致(单选互斥);2)卡片渲染及异步段全部异常兜底;3)新增全局崩溃捕获:异常不再无声闪退,下次启动弹窗显示错误详情
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.8.98.apk?v=1
+1.8.99
+修复网格分析闪退根因:已持有仓位参数 P以上格数/P以下格数 读取类型与存储不一致导致的类型转换异常,已统一修复,分析可正常出结果
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.8.99.apk?v=1
