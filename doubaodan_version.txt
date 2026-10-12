@@ -1,3 +1,3 @@
-1.9.37
-修复打开App即闪退:强制更新弹窗在自动登录跳转后弹出导致BadToken崩溃,已加Activity存活保护与弹窗容错;同步LoginActivity版本号一致
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.37.apk?v=1
+1.9.38
+监测频率新增 10秒/15秒档,默认改为 10 秒,移除 30分钟/1小时档位
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.38.apk?v=1
