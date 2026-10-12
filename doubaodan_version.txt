@@ -1,3 +1,3 @@
-1.9.24
-多转空/空转多播报文案改为:币种 实时价X 从箱上Y 回撤Z% 周期多转空了，可开空 / 从箱下Y 回涨Z% 周期空转多了，可开多
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.24.apk?v=1
+1.9.25
+修复已持有仓位两个实时价不一致:增量刷新时同步'实时更新'区实时价(与开仓后已买入量一致)
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.25.apk?v=1
