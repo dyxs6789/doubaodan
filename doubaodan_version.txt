@@ -1,3 +1,3 @@
-1.9.16
-修复卡片不显示+已持有交互:1)刷新无卡时自动全建/有卡时增量更新,切换币种周期自动全建 2)先选持仓方向再输入配置,切换方向极值输入label即时切换(多=最高价/空=最低价) 3)极值更新时间加日期(MM-dd HH:mm:ss)
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.16.apk?v=1
+1.9.17
+已持仓数据按币种独立存管+后台监测:切换币种后原币种持仓保留并继续监测(各币种独立开关/方向/参数/极值),旧数据自动迁移到原币种
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.17.apk?v=1
