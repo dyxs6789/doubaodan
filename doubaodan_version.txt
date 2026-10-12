@@ -1,3 +1,3 @@
-1.9.09
-参数行排版:标签在左、值在右(两端对齐),标签与值字号统一15sp
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.09.apk?v=1
+1.9.10
+参数行排版修复:字体恢复12sp,值强制右对齐(标签在左、值在右)
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.10.apk?v=1
