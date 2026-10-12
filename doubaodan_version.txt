@@ -1,3 +1,3 @@
-1.9.28
-修复:已持有仓位开启监测后方向单选被锁定无法切换的问题(单选不再随监测锁定,输入框按目标方向状态锁定)
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.28.apk?v=1
+1.9.29
+已持有仓位新增每格止盈价差输入;开仓后已买入量按含止盈空间计算:空仓=实时价+止盈价差-最低价,多仓=最高价-(实时价-止盈价差);实时杠杆率同步
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.29.apk?v=1
