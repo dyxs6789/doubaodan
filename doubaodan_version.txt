@@ -1,3 +1,3 @@
-1.9.35
-修复更新安装旧版本问题:备用下载源全部改用与直链相同的新文件名,并同步更新固定下载文件;下载前清除旧缓存安装包
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.35.apk?v=1
+1.9.36
+已持有仓位改为多仓|空仓双方向标签卡片,开关各自独立不再互串;卡片内加币种+周期标识(E4H);网格分析币种改单选标签切换;更新时间行加E4H标识
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.36.apk?v=1
