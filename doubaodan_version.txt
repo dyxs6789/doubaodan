@@ -1,3 +1,3 @@
-1.9.36
-已持有仓位改为多仓|空仓双方向标签卡片,开关各自独立不再互串;卡片内加币种+周期标识(E4H);网格分析币种改单选标签切换;更新时间行加E4H标识
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.36.apk?v=1
+1.9.37
+修复打开App即闪退:强制更新弹窗在自动登录跳转后弹出导致BadToken崩溃,已加Activity存活保护与弹窗容错;同步LoginActivity版本号一致
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.37.apk?v=1
