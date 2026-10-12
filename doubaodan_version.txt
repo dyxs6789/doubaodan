@@ -1,3 +1,3 @@
-1.9.01
-1)已持有仓位开关移除,区块恒显示,已持有网格播报恒生效;2)未开仓P以上格数最少为1(如总格数1000时P以上1+P以下999),总数恒等于总格数
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.01.apk?v=1
+1.9.02
+网格分析-价格与轨道位置:去掉横向六轨标尺,改为文字完整排序(箱体下价<下轨<中轨<上轨<现价<MA<箱体上价,按价格升序,现价橙色高亮,带第N档/共5档)
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.02.apk?v=1
