@@ -1,3 +1,3 @@
-1.9.07
-已持有仓位:切换持仓方向(多/空)立即重算并刷新四个参考价展示;网格带状态标签按方向显示,多网格=下带vs四价,空网格=上带vs四价
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.07.apk?v=1
+1.9.08
+已持有仓位/未开仓等参数行排版对齐效果图:标签与值紧挨靠左(原值贴右、中间大空隙)
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.08.apk?v=1
