@@ -1,3 +1,3 @@
-1.9.47
-添加Key卡片移出自动刷新区(输入不再被刷新清掉);锁定时间格式去掉[锁定于]字样
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.47.apk?v=1
+1.9.48
+Key管理:卡片新增删除按钮(确认弹窗,断开连接);每个Key新增自动暂停/自动止盈/自动平仓三开关(自动动作按开关过滤执行)
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.48.apk?v=1
