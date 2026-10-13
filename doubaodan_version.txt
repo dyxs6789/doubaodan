@@ -1,4 +1,3 @@
-1.9.45
-操作执行细节卡片增加表头:参数|多头(逆势)|空头(顺势),对齐效果图
-风控参数强止损(箱下-2%)文字简化为强止损
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.45.apk?v=1
+1.9.46
+实测确认oneget无Key列表接口,网格持仓改为手动添加Key(名称+apiKey)自动监测持仓
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.46.apk?v=1
