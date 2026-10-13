@@ -1,6 +1,3 @@
-1.9.42
-修复重新登录后Key仍拉不到(进程内token缓存未更新,登录成功即同步新token)
-getApiKeyInfo多字段名兼容解析
-顶部刷新倒计时逐秒走动,10秒自动刷新
-箱体锁定按钮文字改为更新
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.42.apk?v=1
+1.9.43
+修复已登录却显示未登录的误判(网格持仓空态改读全局og_token,登录全软件共用)
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.43.apk?v=1
