@@ -1,3 +1,3 @@
-1.9.46
-实测确认oneget无Key列表接口,网格持仓改为手动添加Key(名称+apiKey)自动监测持仓
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.46.apk?v=1
+1.9.47
+添加Key卡片移出自动刷新区(输入不再被刷新清掉);锁定时间格式去掉[锁定于]字样
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.47.apk?v=1
