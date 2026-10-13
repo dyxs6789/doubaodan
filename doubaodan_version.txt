@@ -1,5 +1,6 @@
-1.9.41
-修复网格持仓面板渲染崩溃(holdContent未初始化导致addView空指针)
-排版12处修复:重复前缀/长值换行/多空分列/箱体锁定按钮挤压
-Key拉取失败红字提示,请在通知配置重新登录
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.41.apk?v=1
+1.9.42
+修复重新登录后Key仍拉不到(进程内token缓存未更新,登录成功即同步新token)
+getApiKeyInfo多字段名兼容解析
+顶部刷新倒计时逐秒走动,10秒自动刷新
+箱体锁定按钮文字改为更新
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.42.apk?v=1
