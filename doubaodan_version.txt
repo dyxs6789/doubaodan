@@ -1,3 +1,5 @@
 1.9.49
-Key管理:卡片新增删除按钮(确认弹窗,断开连接);每个Key新增自动暂停/自动止盈/自动平仓三开关(自动动作按开关过滤执行)
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.49.apk?v=1
+Token失效提示:oneget Token约2小时过期,过期后持仓/网格停止更新;现检测401并红条提示重新粘贴最新Token,不再静默无数据
+按钮调小:操作按钮整体缩小(字号/内边距/圆角),更贴合版面
+风控参数标题去掉时间戳
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.49.apk?v=2
