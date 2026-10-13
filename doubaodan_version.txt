@@ -1,3 +1,4 @@
-1.9.44
-操作执行细节卡片移除底部暂停价规则三段说明文字
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.44.apk?v=1
+1.9.45
+操作执行细节卡片增加表头:参数|多头(逆势)|空头(顺势),对齐效果图
+风控参数强止损(箱下-2%)文字简化为强止损
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.45.apk?v=1
