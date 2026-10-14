@@ -1,3 +1,4 @@
-1.9.54
-定位问题调试版:网格持仓页新增WS原始数据调试行(绿色OK=收到返回/红色ERR=错误码),用于定位App拉不到网格数据的原因,请截图反馈WS行内容
-https://gitee.com/doubaodan/doubaodan/raw/master/doubaodan.apk
+1.9.70
+自动管理托管网格:暂停价/止盈价/强止损按实时价所在轨道动态计算(箱下/箱上用锁定价),只防守不自动恢复
+已持有网格风控建议四价与自动管理实时一致更新
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.70.apk
