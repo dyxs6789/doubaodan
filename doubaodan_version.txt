@@ -1,4 +1,5 @@
-1.9.70
+1.9.71
 自动管理托管网格:暂停价/止盈价/强止损按实时价所在轨道动态计算(箱下/箱上用锁定价),只防守不自动恢复
 已持有网格风控建议四价与自动管理实时一致更新
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.70.apk
+修复:正式版改用固定签名密钥,今后覆盖安装保留绑定的Key不再丢失
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.71.apk
