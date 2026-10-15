@@ -1,3 +1,3 @@
-1.9.79
-修复退出登录不再清空绑定的KEY列表(只清登录态);版本号登录前后统一读构建配置;更新下载修复(version.txt固定3行)
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.79.apk
+1.9.80
+Key方向切换:多/空全局按钮默认多,持仓/网格/托管参数按方向显示;方向选择+批量操作+监测合并同一卡片;批量平仓按钮按方向共4个;状态筛选补全无网格;添加Key移入合并卡片;去掉顶部标题;自动托管标题带方向提示
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.80.apk
