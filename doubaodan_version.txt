@@ -1,3 +1,3 @@
-1.9.82
-v1.9.82:币种按钮加大与多/空方向按钮一致;币种/方向切换提速(切方向不再拉网络即时重绘,K线按币种缓存切换不重复拉取);仓位监控打开时按当前通知类型立即做一次通知;含死代码清理
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.82.apk
+1.9.83
+v1.9.83:修复1.9.82切换提速引入的定时刷新卡死(K线缓存命中时refreshing无人复位导致持仓数据冻结,新增统一收尾+4秒超时兜底保证每秒刷新正常);含币种按钮加大/切换提速/仓位监控开启通知
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.83.apk
