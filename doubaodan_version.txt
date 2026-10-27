@@ -1,3 +1,3 @@
-1.9.90
-v1.9.90:箱体计算窗口由40根改为20根(最近20根已收盘K线+当前未收盘K线共21根),全软件统一:网格持仓/行情分析/实时监测轨道计算/箱体更新播报四处一致;箱体算法说明弹窗同步更新为21根
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.90.apk
+1.9.91
+v1.9.91:流量优化(全局K线缓存10秒TTL所有模块共用+K线limit200降80+refreshHttp节流1秒改5秒+holdGrid4h无持仓币种不拉K线),预计省90%流量;功能不变
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_1.9.91.apk
