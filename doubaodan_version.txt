@@ -1,3 +1,3 @@
-2.1.11
-v2.1.11:箱体沿跟随新高/新低，破轨后布林内新柱新高抬高箱上、新低压低箱下，时间柱同步，五处口径统一
-https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_2.1.11.apk
+2.1.12
+v2.1.12:修复多周期箱体页底部标签栏消失;币种按钮统一显示ETH/BTC/SOL/HYPE全名
+https://cdn.jsdelivr.net/gh/dyxs6789/doubaodan@main/doubaodan_2.1.12.apk
